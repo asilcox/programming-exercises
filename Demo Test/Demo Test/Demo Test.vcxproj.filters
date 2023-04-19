@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Data Structures">
+      <UniqueIdentifier>{25ddddd2-0d84-4d25-973b-c1c13e32371b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Algorithms">
+      <UniqueIdentifier>{10b68c8b-0cfb-4f43-b950-c1e3a8b17313}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Algorithms\Strings">
+      <UniqueIdentifier>{191527b7-56cb-4c43-b7d0-e37ae464f194}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Algorithms\Integer Arrays">
+      <UniqueIdentifier>{8c0df6b8-f6c8-43d3-a1a6-0be241387c3b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Algorithms\Sorting">
+      <UniqueIdentifier>{3d079792-b26a-4f7a-9358-1fe9058c25eb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="LinkedList.h">
+      <Filter>Header Files\Data Structures</Filter>
+    </ClInclude>
+    <ClInclude Include="Stack.h">
+      <Filter>Header Files\Data Structures</Filter>
+    </ClInclude>
+    <ClInclude Include="Factorial.h">
+      <Filter>Header Files\Algorithms</Filter>
+    </ClInclude>
+    <ClInclude Include="Fibonacci.h">
+      <Filter>Header Files\Algorithms</Filter>
+    </ClInclude>
+    <ClInclude Include="ReverseString.h">
+      <Filter>Header Files\Algorithms\Strings</Filter>
+    </ClInclude>
+    <ClInclude Include="Palindrome.h">
+      <Filter>Header Files\Algorithms\Strings</Filter>
+    </ClInclude>
+    <ClInclude Include="NumberOfCharacters.h">
+      <Filter>Header Files\Algorithms\Strings</Filter>
+    </ClInclude>
+    <ClInclude Include="Anagrams.h">
+      <Filter>Header Files\Algorithms\Strings</Filter>
+    </ClInclude>
+    <ClInclude Include="VowelsAndConsonants.h">
+      <Filter>Header Files\Algorithms\Strings</Filter>
+    </ClInclude>
+    <ClInclude Include="MatchingElements.h">
+      <Filter>Header Files\Algorithms\Integer Arrays</Filter>
+    </ClInclude>
+    <ClInclude Include="BubbleSort.h">
+      <Filter>Header Files\Algorithms\Sorting</Filter>
+    </ClInclude>
+    <ClInclude Include="InsertionSort.h">
+      <Filter>Header Files\Algorithms\Sorting</Filter>
+    </ClInclude>
+    <ClInclude Include="ReverseArray.h">
+      <Filter>Header Files\Algorithms\Sorting</Filter>
+    </ClInclude>
+    <ClInclude Include="SwapValues.h">
+      <Filter>Header Files\Algorithms</Filter>
+    </ClInclude>
+    <ClInclude Include="BinarySearch.h">
+      <Filter>Header Files\Algorithms\Integer Arrays</Filter>
+    </ClInclude>
+    <ClInclude Include="SecondLargest.h">
+      <Filter>Header Files\Algorithms\Integer Arrays</Filter>
+    </ClInclude>
+    <ClInclude Include="RemoveCharacter.h">
+      <Filter>Header Files\Algorithms\Strings</Filter>
+    </ClInclude>
+    <ClInclude Include="Prime.h">
+      <Filter>Header Files\Algorithms</Filter>
+    </ClInclude>
+    <ClInclude Include="AddElements.h">
+      <Filter>Header Files\Algorithms\Integer Arrays</Filter>
+    </ClInclude>
+    <ClInclude Include="FindSmallestMissing.h">
+      <Filter>Header Files\Algorithms\Integer Arrays</Filter>
+    </ClInclude>
+    <ClInclude Include="MissingNumber.h">
+      <Filter>Header Files\Algorithms\Integer Arrays</Filter>
+    </ClInclude>
+    <ClInclude Include="DuplicateNumberSingle.h">
+      <Filter>Header Files\Algorithms\Integer Arrays</Filter>
+    </ClInclude>
+    <ClInclude Include="FindSmallestNumber.h">
+      <Filter>Header Files\Algorithms\Integer Arrays</Filter>
+    </ClInclude>
+    <ClInclude Include="FindLargestNumber.h">
+      <Filter>Header Files\Algorithms\Integer Arrays</Filter>
+    </ClInclude>
+    <ClInclude Include="AddPairs.h">
+      <Filter>Header Files\Algorithms\Integer Arrays</Filter>
+    </ClInclude>
+    <ClInclude Include="SelectionSort.h">
+      <Filter>Header Files\Algorithms\Sorting</Filter>
+    </ClInclude>
+    <ClInclude Include="BinarySearchRecursive.h">
+      <Filter>Header Files\Algorithms\Integer Arrays</Filter>
+    </ClInclude>
+    <ClInclude Include="PeakElement.h">
+      <Filter>Header Files\Algorithms\Integer Arrays</Filter>
+    </ClInclude>
+    <ClInclude Include="RotateArray.h">
+      <Filter>Header Files\Algorithms\Sorting</Filter>
+    </ClInclude>
+    <ClInclude Include="NthSmallestNumber.h">
+      <Filter>Header Files\Algorithms\Integer Arrays</Filter>
+    </ClInclude>
+    <ClInclude Include="NthLargestNumber.h">
+      <Filter>Header Files\Algorithms\Integer Arrays</Filter>
+    </ClInclude>
+    <ClInclude Include="FindNumber.h">
+      <Filter>Header Files\Algorithms\Integer Arrays</Filter>
+    </ClInclude>
+    <ClInclude Include="Union.h">
+      <Filter>Header Files\Algorithms\Sorting</Filter>
+    </ClInclude>
+    <ClInclude Include="Intersection.h">
+      <Filter>Header Files\Algorithms\Sorting</Filter>
+    </ClInclude>
+    <ClInclude Include="QuickSort.h">
+      <Filter>Header Files\Algorithms\Sorting</Filter>
+    </ClInclude>
+    <ClInclude Include="CityProblem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
