@@ -28,6 +28,9 @@
     <Filter Include="Header Files\Algorithms\Sorting">
       <UniqueIdentifier>{3d079792-b26a-4f7a-9358-1fe9058c25eb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\Algorithms\Graph and Tree Traversal">
+      <UniqueIdentifier>{487b9faf-c1db-4da1-921e-16c004ddad0d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source.cpp">
@@ -140,8 +143,17 @@
     <ClInclude Include="QuickSort.h">
       <Filter>Header Files\Algorithms\Sorting</Filter>
     </ClInclude>
+    <ClInclude Include="MakePalindrome.h">
+      <Filter>Header Files\Algorithms\Strings</Filter>
+    </ClInclude>
+    <ClInclude Include="Graph.h">
+      <Filter>Header Files\Data Structures</Filter>
+    </ClInclude>
     <ClInclude Include="CityProblem.h">
-      <Filter>Header Files</Filter>
+      <Filter>Header Files\Algorithms\Graph and Tree Traversal</Filter>
+    </ClInclude>
+    <ClInclude Include="CommonElements.h">
+      <Filter>Header Files\Algorithms\Integer Arrays</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

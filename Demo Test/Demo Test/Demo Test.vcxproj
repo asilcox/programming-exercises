@@ -149,6 +149,7 @@
     <ClInclude Include="BinarySearchRecursive.h" />
     <ClInclude Include="BubbleSort.h" />
     <ClInclude Include="CityProblem.h" />
+    <ClInclude Include="CommonElements.h" />
     <ClInclude Include="DuplicateNumberSingle.h" />
     <ClInclude Include="Factorial.h" />
     <ClInclude Include="Fibonacci.h" />
@@ -156,9 +157,11 @@
     <ClInclude Include="FindNumber.h" />
     <ClInclude Include="FindSmallestMissing.h" />
     <ClInclude Include="FindSmallestNumber.h" />
+    <ClInclude Include="Graph.h" />
     <ClInclude Include="InsertionSort.h" />
     <ClInclude Include="Intersection.h" />
     <ClInclude Include="LinkedList.h" />
+    <ClInclude Include="MakePalindrome.h" />
     <ClInclude Include="MatchingElements.h" />
     <ClInclude Include="MissingNumber.h" />
     <ClInclude Include="NthLargestNumber.h" />
